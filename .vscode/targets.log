@@ -1,0 +1,421 @@
+# GNU Make 4.2.1
+# Built for x86_64-pc-linux-gnu
+# Copyright (C) 1988-2016 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Sat Jul 23 19:45:43 2022
+
+# Variables
+
+# 'override' directive
+GNUMAKEFLAGS := 
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# automatic
+?F = $(notdir $?)
+# environment
+QUADR_TOKEN1 = yIrVKBvLIzdH3IkXiE5Q794B
+# environment
+PAPERSIZE = letter
+# environment
+DESKTOP_SESSION = ubuntu
+# default
+.SHELLFLAGS := -c
+# environment
+PROVIDE_FULLSTACK_ACTION = true
+# environment
+ELEPH_P_PASS = dmqWt7Gr8K_ssKyuDSoRuRVy2uRx7cAU
+# environment
+XDG_SESSION_CLASS = user
+# environment
+SNAP_COMMON = /var/snap/code/common
+# environment
+XDG_SESSION_TYPE = x11
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# environment
+GRADLE_HOME = /home/andrii/.sdkman/candidates/gradle/current
+# environment
+IM_CONFIG_PHASE = 1
+# environment
+ANMA_TOKEN = VxHRL3rp319SgvhQYpcp0CBA
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+XAUTHORITY = /run/user/1000/gdm/Xauthority
+# environment
+GDMSESSION = ubuntu
+# environment
+XMODIFIERS = @im=ibus
+# makefile
+CURDIR := /home/andrii/prog/nodejs/gcp-node-test
+# makefile
+SHELL = /bin/sh
+# environment
+SNAP_DATA = /var/snap/code/102
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# environment
+JOURNAL_STREAM = 8:57195
+# environment
+ANMA_WIKI = https://anma.atlassian.net/wiki
+# environment
+GOOGLE_APPLICATION_CREDENTIALS = /home/andrii/Downloads/silver-adapter-307718-b7a8ec894c58.json
+# environment
+XDG_CONFIG_DIRS = /etc/xdg/xdg-ubuntu:/etc/xdg
+# environment
+SNAP_INSTANCE_NAME = code
+# environment
+SNAP_ARCH = amd64
+# environment
+MAVEN_HOME = /home/andrii/.sdkman/candidates/maven/current
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST :=  Makefile
+# environment
+docker_PSQL_IP = 172.17.0.2
+# automatic
+@F = $(notdir $@)
+# environment
+GIO_LAUNCHED_DESKTOP_FILE = /var/lib/snapd/desktop/applications/code_code.desktop
+# environment
+USERNAME = andrii
+# environment
+MAKELEVEL := 0
+# environment
+MANDATORY_PATH = /usr/share/gconf/ubuntu.mandatory.path
+# environment
+XDG_DATA_DIRS = /usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+# environment
+DBUS_SESSION_BUS_ADDRESS = unix:path=/run/user/1000/bus
+# environment
+_ = /snap/code/102/usr/share/code/code
+# environment
+ELEPH_USER = jqnqjfrd
+# environment
+MANAGERPID = 2054
+# environment
+LESSOPEN = | /usr/bin/lesspipe %s
+# environment
+LC_NAME = en_US.UTF-8
+# environment
+VSCODE_CWD = /home/andrii
+# environment
+GSETTINGS_SCHEMA_DIR = /snap/code/102/usr/share/glib-2.0/schemas
+# default
+MAKE_HOST := x86_64-pc-linux-gnu
+# environment
+PATH = /home/andrii/google-cloud-sdk/bin:/home/andrii/.sdkman/candidates/springboot/current/bin:/home/andrii/.sdkman/candidates/maven/current/bin:/home/andrii/.sdkman/candidates/kotlin/current/bin:/home/andrii/.sdkman/candidates/java/current/bin:/home/andrii/.sdkman/candidates/groovy/current/bin:/home/andrii/.sdkman/candidates/gradle/current/bin:/home/andrii/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/andrii/prog/_tools/ghc-9.2.3-x86_64-ubuntu20.04-linux/ghc-9.2.3:/home/andrii/prog/_tools/grpcurl_1.8.6_linux_x86_64/grpcurl:/home/andrii/prog/_tools/IBM_Cloud_CLI_2.7.0_amd64/Bluemix_CLI/bin:/home/andrii/prog/_tools/scriptcs-scriptcs-v0.17.1-0-gceb8443/scriptcs-scriptcs-ceb8443:/home/andrii/Downloads/go/bin:/home/andrii/.fzf/bin:/home/andrii/.cabal/bin:/home/andrii/.ghcup/bin:/home/andrii/prog/_tools/ghc-9.2.3-x86_64-ubuntu20.04-linux/ghc-9.2.3:/home/andrii/prog/_tools/grpcurl_1.8.6_linux_x86_64/grpcurl:/home/andrii/prog/_tools/IBM_Cloud_CLI_2.7.0_amd64/Bluemix_CLI/bin:/home/andrii/prog/_tools/scriptcs-scriptcs-v0.17.1-0-gceb8443/scriptcs-scriptcs-ceb8443:/home/andrii/.cache/cloud-code/installer/google-cloud-sdk/bin:/home/andrii/google-cloud-sdk/bin
+# environment
+GPG_AGENT_INFO = /run/user/1000/gnupg/S.gpg-agent:0:1
+# environment
+GOLANG_EXECUTABLE = go
+# environment
+SESSION_MANAGER = local/andrii-ThinkBook-15-G2-ARE:@/tmp/.ICE-unix/2316,unix/andrii-ThinkBook-15-G2-ARE:/tmp/.ICE-unix/2316
+# environment
+XDG_RUNTIME_DIR = /run/user/1000
+# environment
+GDK_PIXBUF_MODULE_FILE = /home/andrii/snap/code/common/.cache/gdk-pixbuf-loaders.cache
+# environment
+SNAP = /snap/code/102
+# environment
+SDKMAN_DIR = /home/andrii/.sdkman
+# environment
+SDKMAN_CANDIDATES_API = https://api.sdkman.io/2
+# default
+.INCLUDE_DIRS = /usr/include /usr/local/include /usr/include
+# environment
+SNAP_VERSION = 3b889b09
+# environment
+XDG_MENU_PREFIX = gnome-
+# environment
+SDKMAN_PLATFORM = linuxx64
+# environment
+DISABLE_WAYLAND = 1
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+BH_WIKI = https://beastiehut.atlassian.net/wiki
+# environment
+INVOCATION_ID = 3c8ef9b18c574eaeb3d5fe746f005ca8
+# environment
+GDK_PIXBUF_MODULEDIR = /snap/code/102/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell archives jobserver output-sync check-symlink load
+# environment
+UUID = 89f0a124-0fb7-4d7e-8745-372acb28991d
+# environment
+LS_COLORS = 
+# environment
+CLOUDSDK_METRICS_ENVIRONMENT = cloudcode.vscode
+# environment
+XDG_SESSION_DESKTOP = ubuntu
+# environment
+SSH_AUTH_SOCK = /run/user/1000/keyring/ssh
+# environment
+GIO_LAUNCHED_DESKTOP_FILE_PID = 386011
+# automatic
+%F = $(notdir $%)
+# environment
+DISPLAY = :0
+# environment
+WELT_PASS = possum!
+# environment
+CLOUDSDK_METRICS_ENVIRONMENT_VERSION = 1.19.0
+# environment
+SNAP_INSTANCE_KEY = 
+# environment
+PWD = /home/andrii/prog/nodejs/gcp-node-test
+# environment
+GROOVY_HOME = /home/andrii/.sdkman/candidates/groovy/current
+# default
+.LOADED := 
+# environment
+SSH_AGENT_PID = 2243
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = ubuntu:GNOME
+# environment
+KOTLIN_HOME = /home/andrii/.sdkman/candidates/kotlin/current
+# environment
+GTK_MODULES = gail:atk-bridge
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+HOME = /home/andrii
+# environment
+WELT_USER = dev
+# environment
+LESSCLOSE = /usr/bin/lesspipe %s %s
+# environment
+VSCODE_CLI = 1
+# environment
+VSCODE_CODE_CACHE_PATH = /home/andrii/.config/Code/CachedData/3b889b090b5ad5793f524b5d1d39fda662b96a2a
+# environment
+LOGNAME = andrii
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# environment
+SNAP_LIBRARY_PATH = /var/lib/snapd/lib/gl:/var/lib/snapd/lib/gl32:/var/lib/snapd/void
+# environment
+SNAP_CONTEXT = 4jwdVZwE8IDvE69dVDjB5AcPUC2UPuQuQ1cUgYes6NwprDIAMie7
+# environment
+NVM_CD_FLAGS = 
+# automatic
++F = $(notdir $+)
+# environment
+TELEMETRY_ID = ea26008c-5565-46e7-9787-c8af01dcfe76
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
+# environment
+SNAP_USER_COMMON = /home/andrii/snap/code/common
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# environment
+GNOME_DESKTOP_SESSION_ID = this-is-deprecated
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# environment
+CONF_LOC_U = admin
+# environment
+LC_TIME = en_US.UTF-8
+# environment
+SNAP_REAL_HOME = /home/andrii
+# environment
+WELT_IP = 167.235.52.214
+# environment
+SDKMAN_VERSION = 5.15.0
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+MAKECMDGOALS := all
+# environment
+QT_IM_MODULE = ibus
+# environment
+SNAP_USER_DATA = /home/andrii/snap/code/102
+# environment
+SHLVL = 0
+# environment
+ATLAS_TOKEN = blPz2E6KDXpfFr6pU4hM59C9
+# environment
+PSQL_DOCKER = host=172.17.0.2 user=dev password=possum dbname=cats port=5432 sslmode=disable TimeZone=Asia/Shanghai
+# environment
+GNOME_SHELL_SESSION_MODE = ubuntu
+# default
+MAKE_VERSION := 4.2.1
+# environment
+USER = andrii
+# environment
+SNAP_REVISION = 102
+# environment
+LC_MONETARY = en_US.UTF-8
+# makefile
+.DEFAULT_GOAL := deploy
+# environment
+XDG_CURRENT_DESKTOP = Unity
+# environment
+THREE_SCALE_USER_TOKEN = 207c527cfc2a6b8dcf4fa43ad7a976da
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+LC_TELEPHONE = en_US.UTF-8
+# environment
+CONF_LOC_P = admin
+# environment
+JAVA_HOME = /home/andrii/.sdkman/candidates/java/current
+# default
+MAKE_COMMAND := make
+# environment
+UTM_SOURCE = vscode
+# default
+.VARIABLES := 
+# automatic
+*F = $(notdir $*)
+# environment
+VSCODE_IPC_HOOK = /run/user/1000/vscode-69463ab4-1.69.2-main.sock
+# environment
+BAMF_DESKTOP_FILE_HINT = /var/lib/snapd/desktop/applications/code_code.desktop
+ 
+make: *** No rule to make target 'all'.  Stop.
+
+# makefile
+MAKEFLAGS = pqrR
+# environment
+MFLAGS = -pqrR
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+NVM_DIR = /home/andrii/.nvm
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# environment
+RECOMMENDER_API_URL = https://gw.api.openshift.io//api/v2
+# environment
+GDK_BACKEND = x11
+# environment
+LC_PAPER = en_US.UTF-8
+# environment
+LC_IDENTIFICATION = en_US.UTF-8
+# environment
+QT_ACCESSIBILITY = 1
+# environment
+DEFAULTS_PATH = /usr/share/gconf/ubuntu.default.path
+# default
+MAKEFILES := 
+# environment
+SNAP_COOKIE = 4jwdVZwE8IDvE69dVDjB5AcPUC2UPuQuQ1cUgYes6NwprDIAMie7
+# environment
+LC_NUMERIC = en_US.UTF-8
+# automatic
+<F = $(notdir $<)
+# environment
+LC_MEASUREMENT = en_US.UTF-8
+# environment
+SNAP_NAME = code
+# environment
+SDKMAN_CANDIDATES_DIR = /home/andrii/.sdkman/candidates
+# environment
+LC_ALL = C
+# environment
+ANMA_MAIL = andymaliuta@gmail.com
+# environment
+SPRINGBOOT_HOME = /home/andrii/.sdkman/candidates/springboot/current
+# environment
+GJS_DEBUG_TOPICS = JS ERROR;JS LOG
+# environment
+QUADR_TOKEN = ZoJr7CGIkow3PxUa0KHf9BFB
+# automatic
+^F = $(notdir $^)
+# environment
+ATLAS_HOME = /home/andrii/prog/atlas/tools/atlassian-plugin-sdk-8.2.7
+# default
+SUFFIXES := 
+# environment
+SNAP_REEXEC = 
+# environment
+CHROME_DESKTOP = code-url-handler.desktop
+# environment
+WINDOWPATH = 2
+# environment
+TOOLS_PATH = /home/andrii/tools
+# environment
+ATLAS_LIC_SHEET_ID = 1kmvvU1WaP82yV64A8mmSawu884BwOByCLllDtxf7Qbk
+# environment
+ELEPH_PASS = dmqWt7Gr8K_ssKyuDSoRuRVy2uRx7cAU
+# environment
+GJS_DEBUG_OUTPUT = stderr
+# default
+.RECIPEPREFIX := 
+# environment
+LC_ADDRESS = en_US.UTF-8
+# environment
+LANG = C
+# environment
+GOOGLE_BOT_1_KEY = AIzaSyARsxcdr4x6_b2dUgkFSoPGQ16x-IYJNPg
+# environment
+VSCODE_PID = 386066
+# environment
+NVM_RC_VERSION = 
+# variable set hash-table stats:
+# Load=172/1024=17%, Rehash=0, Collisions=36/197=18%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 66306, inode 1201166): 14 files, no impossibilities.
+
+# 14 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-23 19:45:33.065860572
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+deploy:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 2):
+	gcloud functions deploy node2 --trigger-http --runtime=nodejs16 --entry-point=helloWorld --allow-unauthenticated --memory=256MB
+
+# files hash-table stats:
+# Load=5/1024=0%, Rehash=0, Collisions=0/15=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 20 / storage = 188 B / avg = 9 B
+# current buf: size = 8162 B / used = 188 B / count = 20 / avg = 9 B
+
+# strcache performance: lookups = 25 / hit rate = 20%
+# hash-table stats:
+# Load=20/8192=0%, Rehash=0, Collisions=1/25=4%
+# Finished Make data base on Sat Jul 23 19:45:43 2022
+
+ 
